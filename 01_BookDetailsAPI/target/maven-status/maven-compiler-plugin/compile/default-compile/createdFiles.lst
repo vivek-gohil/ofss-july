@@ -1,0 +1,7 @@
+com\ofss\main\controller\BookDetailsController.class
+com\ofss\main\repository\BookDetailsRepository.class
+com\ofss\main\domain\BookDetails.class
+com\ofss\main\service\BookDetailsService.class
+com\ofss\main\repository\BookDetailsRepositoryInterface.class
+com\ofss\main\service\BookDetailsServiceInterface.class
+com\ofss\main\Application.class

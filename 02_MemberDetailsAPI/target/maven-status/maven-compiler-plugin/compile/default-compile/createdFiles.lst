@@ -1,0 +1,7 @@
+com\ofss\main\repository\MemberDetailsRepository.class
+com\ofss\main\service\MemberDetailsServiceInterface.class
+com\ofss\main\domain\MemberDetails.class
+com\ofss\main\service\MemberDetailsService.class
+com\ofss\main\repository\MemberDetailsRepositoryInterface.class
+com\ofss\main\controller\MemberDetailsController.class
+com\ofss\main\Application.class

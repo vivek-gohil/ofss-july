@@ -1,0 +1,9 @@
+com\ofss\main\repository\BookIssueDetailsRepositoryInterface.class
+com\ofss\main\domain\BookDetails.class
+com\ofss\main\domain\BookIssueDetails.class
+com\ofss\main\domain\MemberDetails.class
+com\ofss\main\repository\BookIssueDetailsRepository.class
+com\ofss\main\service\BookIssueDetailsService.class
+com\ofss\main\service\BookIssueDetailsServiceInterface.class
+com\ofss\main\Application.class
+com\ofss\main\controller\BookIssueDetailsController.class
